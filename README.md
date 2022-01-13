@@ -2,4 +2,4 @@
 
 A simple remake of ski-free
 
-**Project:** https://github.com/skelly-media/ski-cheap/projects/1
+My main contributions were the character controller and input gathering scripts, as well as the physics implementation.
